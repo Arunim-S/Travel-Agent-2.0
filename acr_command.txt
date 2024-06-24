@@ -1,0 +1,1 @@
+az acr build --registry llmbenchmarkacr --resource-group LLM-Benchmarking --image llmbenchmark .
